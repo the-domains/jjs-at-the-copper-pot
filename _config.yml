@@ -14,6 +14,10 @@ color:
     - '#6A6A61'
 layout_spectrum: 0.09626709157600999
 name: JJ's at the Copper Pot
+navigation:
+  - name: About JJ's
+    id: f68ac407-7823-49cb-b8b9-9c4662099085
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4092d07-b647-44a4-a54a-d8c70e772136.jpg
 title: A Distinct Dining Experience
