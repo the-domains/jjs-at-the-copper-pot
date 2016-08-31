@@ -1,4 +1,6 @@
 typography_spectrum: 0.5980180066544563
+content_rating:
+  adult: false
 color:
   brandStrength: 0.0963394611608237
   lightness: 0.9716322971507907
@@ -12,6 +14,8 @@ color:
     - '#6A6A61'
 layout_spectrum: 0.09626709157600999
 name: JJ's at the Copper Pot
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4092d07-b647-44a4-a54a-d8c70e772136.jpg
 title: A Distinct Dining Experience
 description: >-
   Wild game • Exotic fish & seafood • Prime rib • Batterfried lobster 150+
