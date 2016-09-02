@@ -1,28 +1,14 @@
+layout_spectrum: 0.09626709157600999
 typography_spectrum: 0.5980180066544563
-content_rating:
-  adult: false
 color:
   brandStrength: 0.0963394611608237
   lightness: 0.9716322971507907
   saturation: 0.31079162983223796
   rhythmicContrast: 0.8293244319502264
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
-layout_spectrum: 0.09626709157600999
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d1d91c1-90bc-433a-9bbb-5b38386ace3d.jpg
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: JJ's at the Copper Pot
-navigation:
-  - name: About JJ's
-    id: f68ac407-7823-49cb-b8b9-9c4662099085
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4092d07-b647-44a4-a54a-d8c70e772136.jpg
-title: A Distinct Dining Experience
-description: >-
-  Wild game • Exotic fish & seafood • Prime rib • Batterfried lobster 150+
-  bottle wine list
